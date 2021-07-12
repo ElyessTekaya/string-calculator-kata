@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-12T21:13:07" hostname="elyess-local-machine" time="0.033">
+  <properties/>
+  <testcase name="step_5_when_contains_negative_numbers_should_throw_them_with_exception()" classname="StringCalculatorTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
